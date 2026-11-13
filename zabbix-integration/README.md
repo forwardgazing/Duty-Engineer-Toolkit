@@ -22,10 +22,9 @@
 ## 📸 Доказательство работы
 
 **1. Успешный тест в веб-интерфейсе Zabbix:**
-<br>
+
 <img src="../images/zabbix_web_test.png" alt="Тест в Zabbix" width="100%">
 
-<br><br>
-
 **2. Результат работы скрипта (файл alert.log):**
+
 <img src="../images/zabbix_alert_log.png" alt="Лог скрипта" width="700">
